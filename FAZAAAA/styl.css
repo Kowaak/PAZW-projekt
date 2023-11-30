@@ -7,3 +7,11 @@ li{
 .tekst{
     text-align: center;
 }
+.tlo-img{
+    background-image: url(path-to-file/img.jpg);
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+.tlo-txt{
+    background-color: 
+}
